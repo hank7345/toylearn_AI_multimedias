@@ -1,3 +1,4 @@
+## storyboard
 ```
 오프닝 (0-5초)
 
@@ -70,3 +71,14 @@ NARRATION (VO): "현명한 선택으로 당신의 빛나는 은퇴를 준비하�
 
 음악: 희망차고 따뜻한 음악으로 전환되며 마무리.
 ```
+
+## scence image
+[]()
+
+## SRT
+```
+
+```
+
+## speech wav
+[감정 대사](https://github.com/hank7345/toylearn_AI_multimedias/blob/main/quests/speech.wav)
